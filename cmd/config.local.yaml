@@ -1,0 +1,5 @@
+server:
+  port: :8989
+database:
+  psn: root:blankonlinux@/sim-k?charset=utf8&parseTime=True&loc=Local
+  type: mysql
